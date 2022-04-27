@@ -7,3 +7,5 @@ hellow  sa
 xiugai
 hellow  hot-fix xiugai
 I add the code in the github
+Add the code in the Cloner
+
